@@ -9,3 +9,5 @@ export class GifListItem {
   class = input.required<string>();
   src = input.required<string>();
 }
+
+// This is a gif-list-item
